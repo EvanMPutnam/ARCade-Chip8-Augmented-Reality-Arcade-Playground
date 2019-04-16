@@ -1,3 +1,3 @@
 # ARCade-Chip8 Augmented Reality Arcade Playground
 
-An augmented reality playground that has 
+An augmented reality playground that uses ARKit to display an arcade cabinet that emulates CHIP8.
